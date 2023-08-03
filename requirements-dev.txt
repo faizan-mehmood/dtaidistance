@@ -1,8 +1,0 @@
-wheel
-pytest
-pytest-benchmark
-pytest-env
-matplotlib
-numpy
-scipy
-jinja2

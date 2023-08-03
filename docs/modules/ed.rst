@@ -1,3 +1,0 @@
-
-.. automodule:: dtaidistance.ed
-   :members:
